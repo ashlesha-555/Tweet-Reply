@@ -40,7 +40,7 @@ Create a system capable of performing real-time sentiment analysis and generatin
 - 
 ## Flow Chart
 
-!(https://cdn.pixabay.com/photo/2017/08/23/11/30/twitter-2672572_1280.jpg)
+!([https://cdn.pixabay.com/photo/2017/08/23/11/30/twitter-2672572_1280.jpg](https://cdn.pixabay.com/photo/2017/08/23/11/30/twitter-2672572_1280.jpg))
 
 ## Interface
 
