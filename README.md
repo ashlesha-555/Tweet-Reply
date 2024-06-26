@@ -40,11 +40,11 @@ Create a system capable of performing real-time sentiment analysis and generatin
 - 
 ## Flow Chart
 
-[Include flow chart image here]
+[flow.jpg]
 
 ## Interface
 
-[Include interface screenshots or description here]
+[interface.jpg]
 
 ## Conclusion
 
