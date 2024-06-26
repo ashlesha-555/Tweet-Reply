@@ -1,5 +1,5 @@
 # Sentiment Analysis and Automated Tweet Response Generation
-
+![Twitter](twitter.jpg)
 ## Project Overview
 
 This project aims to develop a cutting-edge system for performing real-time sentiment analysis and generating automated tweet responses. The goal is to enhance social media engagement by providing personalized and context-aware interactions.
