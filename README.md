@@ -23,7 +23,6 @@ Create a system capable of performing real-time sentiment analysis and generatin
   - Tokenizes and encodes input text using BERT's tokenizer.
   - Passes encoded input through the BERT model for sentiment prediction.
   - Outputs a sentiment label for user feedback.
-- **Accuracy**: 98.19%
 
 ### Tweet Generation Module (GPT-2)
 - **Function**: Generates tweets based on input topics.
@@ -38,16 +37,7 @@ Create a system capable of performing real-time sentiment analysis and generatin
   - Tokenizes and encodes the user's tweet using BART's tokenizer.
   - Inputs the encoded tweet into the BART model for response generation.
   - Outputs a contextually relevant response to the user's tweet.
-- **Accuracy**: 90.13%
-
-## Team Details
-
-- **Guide**: Prof. Sunil V.G., Prof. Satish C.
-- **Students**:
-  - Ashlesha K (01fe21bcs321, Roll No: 317, Division: C)
-  - Gauri T (01fe21bcs098, Roll No: 312, Division: C)
-  - Sanjana H (01fe21bcs020, Roll No: 302, Division: C)
-
+- 
 ## Flow Chart
 
 [Include flow chart image here]
